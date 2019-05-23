@@ -1,6 +1,6 @@
-# Smashing-Magazine-Clone
+# Smashing-Magazine
 
-The Smashing-Magazine-clone project is aimed at training students to think in terms of visual hierarchy, typography and design principles.
+The Smashing-Magazine project is aimed at training students to think in terms of visual hierarchy, typography and design principles.
 
 ## Authors
 This projects was executed by the duo of **Radouane** & **Tunde**.
